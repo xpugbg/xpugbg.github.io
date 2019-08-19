@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: XPUGBG
+title: XPUG Bergamo
 email: xpugbg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   eXtreme Programming User Group Bergamo.
@@ -60,27 +60,30 @@ author:
   avatar : "/assets/images/xpugbg.png"
   bio    : "eXtreme Programming User Group Bergamo"
   links:
-    - label: "AgileMovement.it"
-      icon: "fas fa-fw fa-link"
-      url: "https://agilemovement.it"
+    - label: "Meetup"
+      icon: "fab fa-meetup"
+      url: "https://www.meetup.com/it-IT/Bergamo-Extreme-Programming-User-Group/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/xpugbg"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xpugbg"
+    - label: "AgileMovement.it"
+      icon: "fas fa-fw fa-link"
+      url: "https://agilemovement.it"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 footer:
   links:
+    - label: "Meetup"
+      icon: "fab fa-meetup"
+      url: "https://www.meetup.com/it-IT/Bergamo-Extreme-Programming-User-Group/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/xpugbg"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/xpugbg"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -88,7 +91,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -103,7 +106,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: false
 
 category_archive:
   type: liquid
