@@ -1,7 +1,7 @@
 ---
 title: "Welcome back XPUGBG!"
 excerpt_separator: "<!--more-->"
-date: 2019-04-18T15:34:30-04:00
+date: 2019-08-08T15:34:30-04:00
 categories:
   - Blog
 tags:
