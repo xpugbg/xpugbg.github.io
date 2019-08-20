@@ -39,4 +39,4 @@ L'evento sarà ospitato da [Intré](https://www.intre.it/), che molto gentilment
 **Dove?**  
 Intré S.r.l. - Seriate, via Guglielmo Marconi, 34  <a href="https://goo.gl/maps/5tH7rYWos84VVmsQ6" target="_blank" class="btn btn--primary">Guarda la mappa</a>  
 
-Iscrivetevi accedendo al nostro <a href="https://www.meetup.com/it-IT/Bergamo-Extreme-Programming-User-Group/events/264102725/" target="_blank" class="btn btn--danger">Meetup</a>  
+Iscrivetevi accedendo al nostro <a href="https://www.meetup.com/it-IT/xpugbg/events/264102725/" target="_blank" class="btn btn--danger">Meetup</a>  
