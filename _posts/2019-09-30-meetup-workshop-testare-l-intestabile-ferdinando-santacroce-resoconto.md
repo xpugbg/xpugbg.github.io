@@ -16,7 +16,7 @@ Vi diamo solo due numeri: 39: le persone iscritte, 38: i partecipanti effettivi 
 
 <!--more-->
 Il 24 settembre l'XPUGBG ha ospitato [Ferdinando Santacroce](https://about.me/ferdinando.santacroce) col suo workshop _"Testare l'intestabile"_.  
-E' possibile leggere un esteso resoconto [sul blog di Intré](http://www.intre.it/2019/09/30/testare-legacy-code-tramite-golden-master-testing/).  
+E' possibile leggere un esteso resoconto [sul blog di Intré](https://www.intre.it/2019/10/03/golden-master-testing-per-testare-legacy-code/).  
 
 Aldilà dei contenuti del workshop, vogliamo soffermarci un attimo su chi ha partecipato, ovvero:  
 
